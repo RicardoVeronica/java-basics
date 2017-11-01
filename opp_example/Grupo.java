@@ -4,7 +4,7 @@ public class Grupo {
     private int x;
 
     // Constructor de la clase
-    public Grupo {
+    public grupo {
 
         // Inicializar las variable o atributos de la clase
         x = 0;

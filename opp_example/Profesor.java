@@ -4,7 +4,7 @@ public class Profesor {
     private int x;
 
     // Constructor de la clase
-    public Profesor {
+    public profesor {
 
         // Inicializar las variable o atributos de la clase
         x = 0;
