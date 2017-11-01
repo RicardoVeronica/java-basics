@@ -18,11 +18,11 @@ public class MyClass {
     // My method
     public static double sumTwoNumbers(double a, double b) {
     
-        double res_sum;
+        double resSum;
 
-        res_sum = a + b;
+        resSum = a + b;
 
-        return res_sum;
+        return resSum;
 
     }
 
