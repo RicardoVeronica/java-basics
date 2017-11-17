@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package programacionavanzadasemana1;
+package herencia;
 
 import java.util.Scanner;
 
